@@ -1,0 +1,25 @@
+body{
+    border: 3px solid;
+    display: flow-root;
+    padding: 20px;
+}
+
+.box{
+    border: 2px solid rgba(193, 12, 36, 0.6);
+    border-radius: 10px;
+    width: 100px;
+    height: 100px;
+    text-align: center;
+}
+
+#img1{
+    float: left;
+    margin-right: 10px;
+    height: 150px;
+}
+
+#img2{
+    float: right;
+    margin-left: 10px;
+    height: 150px;
+}

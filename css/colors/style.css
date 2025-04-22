@@ -1,0 +1,21 @@
+/* named colors */
+body{
+    background-color: slategrey;
+}
+
+/* rgb colors */
+h1{
+    background-color: rgb(255, 0, 0);
+    color: rgb(13, 46, 139);
+}
+
+/* hexadecimal values */
+#p1{
+    background-color: #890f0f;
+    color: #05bcfa;
+}
+
+/* hsl */
+#p2{
+    background-color: hsl(300, 100%, 25%);
+}

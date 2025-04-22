@@ -1,0 +1,21 @@
+/* h1{
+    border-style: solid;
+    border-width: 3px;
+    border-color: hsl(273, 100%, 54%);
+    border-radius: 20px;
+} */
+
+/* Short hand syntax for border*/
+
+h1{
+    border: 3px solid hsl(262, 100%, 56%);
+    border-radius: 20px;
+}
+
+p{
+    border-bottom: 3px solid hsl(147, 87%, 41%);
+    border-top: 3px dotted hsl(324, 87%, 39%);
+    border-right: 1.2rem ridge hsl(336, 88%, 50%);
+    border-left: 2px solid hsl(22, 99%, 45%);
+    border-radius: 10px;
+}

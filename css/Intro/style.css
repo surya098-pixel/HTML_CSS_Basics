@@ -1,0 +1,32 @@
+body{
+    background-color: black;
+}
+
+h1{
+    color: white;
+}
+
+#p1{
+    color: red;
+}
+
+#p2{
+    color: orange;
+}
+
+#p3{
+    color: pink;
+}
+#p4{
+    color: green;
+}
+
+.odd{
+    font-size: 10px;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.even{
+    font-size: 20px;
+    font-family: 'Courier New', Courier, monospace;
+}

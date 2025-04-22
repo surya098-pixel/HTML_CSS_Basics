@@ -1,0 +1,75 @@
+/* Case 1: */
+/* #box1{
+    width: 200px;
+    height: 200px;
+    background-color: hsl(240, 50%, 36%);
+    position: relative;
+    top: 100px;
+    left: 100px;
+} */
+
+/* Case 2: */
+/* #box1{
+    width: 200px;
+    height: 200px;
+    background-color: hsl(176, 11%, 49%);
+    position: fixed;
+    left: 0px;
+    bottom: 0px;
+} */
+
+/* Case 3: */
+/* #box1{
+    width: 200px;
+    height: 200px;
+    background-color: hsl(176, 11%, 49%);
+    position: fixed;
+    top: 100px;
+    left:100px;
+}
+
+#box2{
+    width: 100px;
+    height: 100px;
+    background-color: hsl(331, 68%, 82%);
+    position: absolute;
+    top: 50px;
+    left: 50px;
+} */
+
+/* Case 4 */
+/* #box1{
+    width: 200px;
+    height: 200px;
+    background-color: hsl(176, 11%, 49%);
+    position: sticky;
+    top: 0px;
+}
+
+#box2{
+    width: 100px;
+    height: 100px;
+    background-color: hsl(331, 68%, 82%);
+    position: absolute;
+    top: 50px;
+    left: 50px;
+} */
+
+
+/* Case 5 */
+#box1{
+    width: 200px;
+    height: 200px;
+    background-color: hsl(176, 11%, 49%);
+    position: sticky;
+    top: 0px;
+}
+
+#box2{
+    width: 100px;
+    height: 100px;
+    background-color: hsl(331, 68%, 82%);
+    position: static;
+    top: 50px;
+    left: 50px;
+}
